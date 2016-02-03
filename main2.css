@@ -1,0 +1,30 @@
+* {
+  background-color: yellow;
+}
+li {
+  font-size: 36px;
+}
+#navbar {
+  margin-left:242px;
+}
+h1 {
+  font-size: 50px;
+  display:inline-block;
+  background-color: red;
+  color:orange;
+}
+h3 {
+  font-style: oblique;
+  font-size: 50px;
+  color:green;
+}
+img {
+  width:260px;
+  height:143px;
+}
+ul {
+  margin-left: 433px;
+}
+em {
+  background-color: purple;
+}
