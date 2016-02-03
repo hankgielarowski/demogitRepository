@@ -1,0 +1,42 @@
+body {
+	display:block;
+}
+img {
+	height: 350px;
+	width: 350px;
+}
+.octodex {
+	display:-webkit-box;
+}
+.octocat {
+display: inline-block;
+margin:9px;
+border-bottom: 2px solid lightgray;
+}
+.octocat img {
+	border: 2px solid lightgray;
+
+}
+.authors img {
+	margin-top:-41px;
+	width: 40px;
+	height: 40px;
+	float:right;
+}
+.image-number {
+	font-size: 15px;
+	color:gray;
+}
+.image-caption {
+	margin-left: 139px;
+}
+.octocat a {
+	text-decoration: none;
+	color:black;
+}
+span {
+	color:gray;
+}
+ul {
+	list-style-type:none;
+}
