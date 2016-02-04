@@ -112,3 +112,14 @@ h1 img {
   background-color: darkblue;
   color:white;
 }
+.cool {
+  font-size: 25px;
+  font-family: serif;
+  margin-left: 30%;
+}
+.coolinfo {
+  font-size: 9px;
+  font-family: monospace;
+  width: 39%;
+  margin-left: 30%;
+}
